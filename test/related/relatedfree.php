@@ -55,6 +55,7 @@ class relatedfree extends Module
     public function hookactionAdminControllerSetMedia($params)
     {
         //for update feature purposes
+        //update here
     }
 
     public function return_rf_tpath()
